@@ -1,16 +1,36 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy Manuel Jesús Bermudo
 
-<!--
-**ManuelCBR/ManuelCBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de aplicaciones con experiencia en .NET y C#, actualmente ampliando mis competencias en el desarrollo móvil con **Swift y SwiftUI**.
 
-Here are some ideas to get you started:
+Me interesa la creación de interfaces limpias, funcionales y centradas en la experiencia de usuario. Compagino mi trabajo profesional en desarrollo con la realización de proyectos personales para seguir aprendiendo y creciendo como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tecnologías que utilizo
+
+- 🟣 **Swift & SwiftUI** (formación autodidacta con proyectos reales)
+- ⚙️ **.NET**, C#, WPF, Windows Form (experiencia profesional)
+- 🧠 Arquitectura **MVVM**, buenas prácticas
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [Mini Proyectos SwiftUI](https://github.com/ManuelCBR/Mini-proyectos-PaulHudson) | pequeños proyectos SwiftUI relacionados con el programa de aprendizaje de Paul Hudson 100 días de SwiftUI | Swift, SwiftUI |
+| [Bubble](https://github.com/lordzzz777/Bubble) | App de mensajería instantanea creada por [Esteban](https://github.com/lordzzz777) y [Jacob](https://github.com/yeikobu) en la que colaboro con ciertas aportaciones | Swift, SwiftUI, Firebase |
+| [DragonBall Wiki App](https://github.com/ManuelCBR/Proyecto-Dragon-ball-Swift) | Proyecto colaborativo para los amantes de Dragon Ball | Swift, SwiftUI, ActivityKit |
+
+> *🛠 Estoy documentando poco a poco mis proyectos personales. ¡Gracias por pasar por aquí!*
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mjbermudo/)
+- 📬 Email: manuelvs1987@gmail.com
+
+---
+
+⭐ Gracias por visitar mi perfil. Siempre estoy abierto a compartir conocimientos y seguir aprendiendo.
