@@ -8,7 +8,7 @@ Me interesa la creación de interfaces limpias, funcionales y centradas en la ex
 
 ## 🧰 Tecnologías que utilizo
 
-- 🟣 **Swift & SwiftUI** (formación autodidacta con proyectos reales)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="20" height="20"/>   **Swift & SwiftUI** (formación autodidacta con proyectos reales)
 - ⚙️ **.NET**, C#, WPF, Windows Form (experiencia profesional)
 - 🧠 Arquitectura **MVVM**, buenas prácticas
 
