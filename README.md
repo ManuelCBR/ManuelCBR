@@ -21,7 +21,7 @@ Me interesa la creación de interfaces limpias, funcionales y centradas en la ex
 | [SaotomeManga SDP26](https://github.com/ManuelCBR/SaotomeMangaSDP26) | Proyecto final de la formación Swift Developer Program 25/26 de Apple Coding Academy | Swift, SwiftUI, SwiftData |
 | [Mini Proyectos SwiftUI](https://github.com/ManuelCBR/Mini-proyectos-PaulHudson) | Pequeños proyectos SwiftUI relacionados con el programa de aprendizaje de Paul Hudson 100 días de SwiftUI | Swift, SwiftUI |
 | [Bubble](https://github.com/lordzzz777/Bubble) | App de mensajería instantanea creada por [Esteban](https://github.com/lordzzz777) y [Jacob](https://github.com/yeikobu) en la que colaboro con ciertas aportaciones | Swift, SwiftUI, Firebase |
-| [DragonBall Wiki App](https://github.com/ManuelCBR/Proyecto-Dragon-ball-Swift) | Proyecto colaborativo para los amantes de Dragon Ball | Swift, SwiftUI, ActivityKit |
+| [DragonBall Wiki App](https://github.com/ManuelCBR/Proyecto-Dragon-ball-Swift) | Proyecto colaborativo para los amantes de Dragon Ball | Swift, SwiftUI, AV Player | ActivityKit |
 
 > *🛠 Estoy documentando poco a poco mis proyectos personales. ¡Gracias por pasar por aquí!*
 
